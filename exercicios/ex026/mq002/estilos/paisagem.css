@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/*APARELHO NO MODO PAISAGEM (LANDSCAPE)*/
+
+body{
+    background: url(../imagens/cev-landscape.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: cover;
+}
